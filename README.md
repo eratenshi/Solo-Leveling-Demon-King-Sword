@@ -30,6 +30,6 @@ This code creates a dynamic "Blue Lightning" effect inspired by Solo Leveling. I
 
 ## 🚀 Installation
 1. Install the `FastLED` library in your Arduino IDE.
-2. Install the ESP32 board package (v3.0+) via the Boards Manager.
+2. Install the ESP32 board package via the Boards Manager.
 3. Connect your LED strip to **D1 (GPIO 1)**.
 4. Upload `Solo_Leveling_Demon_King_Sword.ino` to your board.
