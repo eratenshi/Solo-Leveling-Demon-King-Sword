@@ -2,7 +2,7 @@
 
 This repository contains the source code for the LED effects used in the Solo Leveling Demon King Sword.
 
-![Demon King Sword Animation](GIF_2.gif)
+![Demon King Sword Animation](GIF_1.gif)
 
 ## 🔗 Credit & Original Design
 The 3D design and original concept are **not mine**. All credit for the incredible 3D model goes to **makersark3d** on MakerWorld:
