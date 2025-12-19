@@ -1,0 +1,7 @@
+# Arduino IDE temporary files
+*.spec
+*.pyc
+.DS_Store
+build/
+bin/
+layout.html
